@@ -1,0 +1,11 @@
+2014-03-21 11:31:44.167 Info   Starting JoyToKey Ver5.5.1
+2014-03-21 11:31:44.168 Info   ExeFile=C:\Users\Colton\Downloads\JoyToKey_en\JoyToKey_en\JoyToKey.exe
+2014-03-21 11:31:44.168 Info   ConfigDir=C:\Users\Colton\Downloads\JoyToKey_en\JoyToKey_en\
+2014-03-21 11:31:44.168 Info   IniFile=C:\Users\Colton\Downloads\JoyToKey_en\JoyToKey_en\JoyToKey.ini
+2014-03-21 11:31:44.168 Info   Windows Version = 6.2
+2014-03-21 11:31:44.181 Info   Loaded VistaAPI.dll (Utils\Utils.cpp#199)
+2014-03-21 11:31:44.183 Info   LicenseKey "" is not valid
+2014-03-21 11:31:44.334 Info   0 joysticks are detected (Joystick.cpp#110)
+2014-03-21 11:31:44.334 Info   ConfigDir=C:\Users\Colton\Downloads\JoyToKey_en\JoyToKey_en\*.cfg (ConfigFileManager.cpp#43)
+2014-03-21 11:31:44.339 Info   Failed to find AppLink.dat (AppLink\AppLinkManager.cpp#32)
+2014-03-21 11:31:44.364 Info   TimerInit: Initializing timer with x1 speed mode (interval = 16 msec)
